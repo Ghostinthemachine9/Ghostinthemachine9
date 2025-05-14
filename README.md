@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ghostinthemachine9
+- 👋 Hi, I’m @Wayne
 - 👀 I’m interested in AI and Emerging Tech
 - 🌱 I’m currently learning AI Agents
 - 💞️ I’m looking to collaborate on AI and Research Tools
